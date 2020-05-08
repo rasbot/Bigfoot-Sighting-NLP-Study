@@ -12,19 +12,20 @@ def import_data(filepath):
 
 def parse_data(soup):
     
+    features = ['YEAR', 'SEASON', 'MONTH', 'STATE', 'COUNTY', 'LOCATION DETAILS',
+       'NEAREST TOWN', 'NEAREST ROAD', 'OBSERVED', 'ALSO NOTICED',
+       'OTHER WITNESSES', 'OTHER STORIES', 'TIME AND CONDITIONS',
+       'ENVIRONMENT', 'DATE']
+    
     d = dict()
     d['id'] = soup.title.text.split(':')[0].split(' ')[-1]
-    for i in range(len(soup.find_all('p'))-4):
+    for i in range(len(soup.find_all('p')):
         try:
             split_text = soup.find_all('p')[i].text.split(':',1)
-            d[split_text[0]] = split_text[1]#.strip(' ')
+            if split_text[0] in features:
+                   d[split_text[0]] = split_text[1]
         except:
             pass
-    try:
-        d['Follow Up from Investigator'] = soup.find_all('p')[-3].text
-        d['About Investigator'] = soup.find_all('p')[-1].text
-    except:
-        pass
     
     d['submitted_date'] = ' '.join(soup.find_all('span', {'class': 'field'})[0].text.split(',')[1:]).replace('\xa0', '-').replace(' ','').strip('-').strip('.')
     

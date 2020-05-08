@@ -1,17 +1,19 @@
-#Bag of Words 
+
 from sklearn.feature_extraction.text import CountVectorizer
-
-tf = CountVectorizer()
-
-document_tf_matrix = tf.fit_transform(corpus).todense()
-
-print(sorted(tf.vocabulary_))
-print(document_tf_matrix)
-
-
-#TFIDF
 from sklearn.feature_extraction.text import TfidfVectorizer
-tfidf = TfidfVectorizer()
-document_tfidf_matrix = tfidf.fit_transform(corpus)
-print(sorted(tfidf.vocabulary_))
-print(document_tfidf_matrix.todense())
+
+
+
+#Bag of Words 
+def text_vectorizer(text_column): 
+    text_values = text_column.values
+    tf = CountVectorizer(stop_words='english')
+    document_tf_matrix = tf.fit_transform(text_values)
+    return tf, document_tf_matrix
+#TFIDF
+    
+def text_tfidf(text_column):
+    text_values = text_column.values
+    tfidf = TfidfVectorizer(stop_words='english')
+    document_tfidf_matrix = tfidf.fit_transform(text_values)
+    return tf, document_tfidf_matrix
