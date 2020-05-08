@@ -17,6 +17,7 @@ We have you covered!
 
 ## When is(was) the best time to spot a Bigfoot?
 <img src='https://github.com/branlindsey/nlp_case_study/blob/master/images/subplot_er.png'>
+
 - Summer is when you should look for a Sasquatch. 
 - The 90s and early 2000s were a peak in sitings. 
 - Most people report soon, but others hold on for a while.  
