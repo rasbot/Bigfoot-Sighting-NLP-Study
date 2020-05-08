@@ -108,3 +108,4 @@ venv.bak/
 .mypy_cache/
 
 /data/bigfoot_data.json
+*.csv
