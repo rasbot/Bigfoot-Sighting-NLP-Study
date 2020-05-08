@@ -23,7 +23,7 @@ Don't worry, we have you covered!
 
 
 ## What kind of bigfoot adventurer are you? 
-We know that many people 'see' Bigfoot, or hear the hairy fella. 
+We know that many people 'see' Bigfoot, or 'hear' the hairy fella. 
 - Hunters
 - Drivers
 - Campers
