@@ -13,8 +13,6 @@ We have you covered!
 
 
 
-
-
 ## When is(was) the best time to spot a Bigfoot?
 <img src='https://github.com/branlindsey/nlp_case_study/blob/master/images/subplot_er.png'>
 
@@ -33,11 +31,13 @@ We know that many people 'see' Bigfoot, or hear the hairy fella.
 <img src='https://github.com/branlindsey/nlp_case_study/blob/master/images/labels_all_er.png'>
 
 
-Looking for Merch? Would you like this on a mug? 
+## Looking for Merch? Would you like this on a mug? 
 
 <img src='https://github.com/branlindsey/nlp_case_study/blob/master/images/bigfoot.png' width="500" height="500">
 
 
-# Future Ideas
+## Future Ideas
 - Bigfoot Tweet Bot
 - Bigfoot Tweet Handle Generator
+
+## Special thanks to the Bigfoot Field Researchers Organization at www.bfro.net
