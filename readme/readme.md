@@ -3,7 +3,7 @@
 
 
 Are you a Bigfoot Adenturer?
-Are you a Bigfoot Tourism Provider? 
+Are you looking to get in on Bigfoot Tourism? 
 
 Don't worry, we have you covered! 
 
