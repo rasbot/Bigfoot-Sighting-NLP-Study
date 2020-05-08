@@ -1,13 +1,13 @@
-# Dabbing Bigfoot Data 
+# Dabbing Bigfoot 
 <img src='https://github.com/branlindsey/nlp_case_study/blob/master/images/Screenshot%20from%202020-05-08%2012-24-26.png' width="100" height="150">
 
 
 Are you a Bigfoot Adenturer?
 Are you a Bigfoot Tourism Provider? 
 
-We have you covered! 
+Don't worry, we have you covered! 
 
-## Where you look for Bigfoot?
+## Where should you look for Bigfoot? Or set up Dabbing Bigfoot Retail Location? 
 <img src='https://github.com/branlindsey/nlp_case_study/blob/master/images/State_Bigfoot.png'>
 <img src='https://github.com/branlindsey/nlp_case_study/blob/master/images/washington_bigfoot.png'>
 
