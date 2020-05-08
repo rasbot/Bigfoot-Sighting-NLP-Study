@@ -33,6 +33,11 @@ We know that many people 'see' Bigfoot, or hear the hairy fella.
 <img src='https://github.com/branlindsey/nlp_case_study/blob/master/images/labels_all_er.png'>
 
 
-#Future Ideas
+Looking for Merch? Would you like this on a mug? 
+
+<img src='https://github.com/branlindsey/nlp_case_study/blob/master/images/bigfoot.png' width="500" height="500">
+
+
+# Future Ideas
 - Bigfoot Tweet Bot
 - Bigfoot Tweet Handle Generator
