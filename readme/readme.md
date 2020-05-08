@@ -1,4 +1,6 @@
 # Dabbing Bigfoot Data 
+<img src='https://github.com/branlindsey/nlp_case_study/blob/master/images/Screenshot%20from%202020-05-08%2012-24-26.png' width="400" height="400">
+
 
 Are you a Bigfoot Adenturer?
 Are you a Bigfoot Tourism Provider? 
