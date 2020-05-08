@@ -7,7 +7,7 @@ Are you a Bigfoot Tourism Provider?
 
 We have you covered! 
 
-##Where you look for Bigfoot?
+## Where you look for Bigfoot?
 <img src='https://github.com/branlindsey/nlp_case_study/blob/master/images/State_Bigfoot.png'>
 <img src='https://github.com/branlindsey/nlp_case_study/blob/master/images/washington_bigfoot.png'>
 
@@ -15,11 +15,15 @@ We have you covered!
 
 
 
-##When is(was) the best time to spot a Bigfoot?
+## When is(was) the best time to spot a Bigfoot?
 <img src='https://github.com/branlindsey/nlp_case_study/blob/master/images/subplot_er.png'>
+- Summer is when you should look for a Sasquatch. 
+- The 90s and early 2000s were a peak in sitings. 
+- Most people report soon, but others hold on for a while.  
 
 
-##What kind of bigfoot adventurer are you? 
+
+## What kind of bigfoot adventurer are you? 
 We know that many people 'see' Bigfoot, or hear the hairy fella. 
 - Hunters
 - Drivers
