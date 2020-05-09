@@ -7,7 +7,7 @@ Are you looking to get in on Bigfoot Tourism?
 
 Don't worry, we have you covered! 
 
-## Where should you look for Bigfoot? Or set up Dabbing Bigfoot Retail Location? 
+## Where should you look for Bigfoot? Or set up a Dabbing Bigfoot Retail Location? 
 <img src='https://github.com/branlindsey/nlp_case_study/blob/master/images/State_Bigfoot.png'>
 <img src='https://github.com/branlindsey/nlp_case_study/blob/master/images/washington_bigfoot.png'>
 
