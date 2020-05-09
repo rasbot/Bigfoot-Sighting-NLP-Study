@@ -1,3 +1,6 @@
+*bigfoot_data.json*
+*.ipynb.checkpoints/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
